@@ -10,6 +10,12 @@ namespace csharp
             this.Items = Items;
         }
 
+        /*
+         * Aged Brie, Sulfuras, Backstage passes
+         * 
+         * 
+         * 
+         */
         public void UpdateQuality()
         {
             for (var i = 0; i < Items.Count; i++)
